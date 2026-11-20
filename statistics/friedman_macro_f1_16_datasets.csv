@@ -1,0 +1,2 @@
+metric,n_datasets,n_encodings,friedman_chi_square,degrees_of_freedom,p_value
+avg_f1_macro,16,18,36.56191460499968,17,0.003856274069298143

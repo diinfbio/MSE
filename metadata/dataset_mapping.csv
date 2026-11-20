@@ -1,0 +1,17 @@
+dataset,arff_file,manuscript_dataset_label,observations,original_columns
+adult,adult.arff,adult,48842,14
+Australian,Australian.arff,Australian,690,14
+bank-marketing,bank-marketing.arff,bank-marketing,4521,16
+compass,compass.arff,compass,16644,17
+credit-approval,credit-approval.arff,credit-approval,690,15
+credit-g,credit-g.arff,credit-g,1000,20
+cylinder-bands,cylinder-bands.arff,cylinder-bands,540,39
+dresses-sales,dresses-sales.arff,dresses-sales,500,12
+Insurance,Insurance.arff,Insurance,23548,10
+jungle_chess_2pcs_endgame_elephant_elephant,jungle_chess_2pcs_endgame_elephant_elephant.arff,jungle-chess-2pcs-endgame-elephant-elephant,2351,46
+KDD,KDD.arff,KDD,5032,45
+kdd_internet_usage,kdd_internet_usage.arff,kdd-internet-usage,10108,68
+molecular-biology_promoters,molecular-biology_promoters.arff,molecular-biology-promoters,106,58
+national-longitudinal-survey-binary,national-longitudinal-survey-binary.arff,national-longitudinal-survey-binary,4908,16
+sick,sick.arff,sick,3772,29
+thoracic_surgery,thoracic_surgery.arff,thoracic-surgery,470,16
